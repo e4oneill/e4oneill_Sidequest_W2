@@ -1,0 +1,42 @@
+Side Quest Documentation
+
+I made many significant changes. I am the one who directed the creative portion of this assignment. I believe the first suggestion I made was to make the ball spikey and red because I wanted it to represent the feeling of anxiety. Another significant change I made is adding hittable spikes at the top of the screen again to signify anxiety and the frustration of day-to-day tasks. I then incorporated a twist on a mechanic from ‘Sushi Go’ by being able to keep a spike or multiple even, and then regenerating the height of the spikes at random to customize the game difficulty and again represent anxiety and daily obstacles. 
+
+GenAI Documentation
+
+Date Used: 2026-01-30
+
+Tool Disclosure: Microsoft 365 CoPilot Version: 2.20260108.46.0
+
+Purpose of Use: to write the code itself, while I provided it with creative direction. 
+
+Summary of Interaction: Co-Pilot wrote the code for me while I directed what I wanted from it, bringing to life my ideas. 
+
+Human Decision Point(s): There were a few times when I got an error after the code it gave me, which it then had to redo and try again. I also changed all of the colours of the generated items after the fact, not simply relying on the colours the AI generated for me, as they didn't fit my vision. However, one of the biggest decisions for me was the spikes at the top of the screen. This is not necessarily the fault of the AI, however moreso because I wasn't confident in my prompts and the outcome I wanted from the spikes. I didn't just want them to be hanging there; I wanted them to be more interactive. This is when I remember the sushi go mechanics: you can choose certain cards each round, and I thought you could customize the level by deciding which spikes you wanted to keep and randomizing the heights. This took a couple of tries and adjustments to the mechanics to get to something I was happy with. I do want to clarify that all of the ideas for what to put in the game were mine, even the spiky balls hanging from the ceiling to amplify the feeling of anxiousness. 
+
+Integrity & Verification Note: I made sure to follow the outline of the side quests, incorporating the weekly prompt as well as the weekly in-class game. Additionally, I made sure to run it regularly as the code was generated to ensure that it worked sufficiently. 
+
+Scope of GenAI Use: AI did not contribute to any of the ideas or creative direction; it simply wrote my ideas in code. 
+
+Limitations or Misfires: There were times when the AI needed to be redirected to fit my vision, and as I said before, I did get an error once while using the code; however, after proper reworking, a conclusion was able to be reached. 
+S
+ummary of Process (Human + Tool)
+As stated before, I directed what the AI did in a quite lengthy process. There were many different iterations, specifically with the spikes, which were held in place randomly generated, but that didn't work. Then, there was a bell curve of spikes, then they could be randomly generated in different positions by pressing R then finally the decision to click and lock them in place. 
+Decision Points & Trade-offs
+
+My Ideas for the code:
+Colours of objects
+Making the ball spiky 
+Creating hanging spiky balls 
+Creating the ceiling spikes, which you can hit and restart
+Regenerating the spike height
+Being able to click and lock a spike in position
+
+Verification & Judgement
+I both re-read the assignment requirements and also talked to Karen in class. 
+
+Limitations, Dead Ends, or Open Questions
+As I stated before, there were some errors or misunderstandings, but after further communication, they were resolved. 
+
+Appendix
+e4oneill_SideQuest_W2_ Appendix.page

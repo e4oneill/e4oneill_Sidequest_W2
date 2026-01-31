@@ -1,18 +1,18 @@
 ## Project Title
 
-GBDA302 Week 2 Example 3: Platforms (AABB Collisions)
+GBDA302 Side Quest Week 2
 
 ---
 
 ## Authors
 
-Karen Cochrane and David Han
+Erin O'Neill, 20967494
 
 ---
 
 ## Description
 
-Adds several rectangular platforms. The blob is drawn as a noisy circle but collides using a simple axis-aligned bounding box (AABB). X and Y are resolved separately to keep behaviour predictable and teachable.
+A Spiky blob platformer to represent anxiety. As someone with anxiety myself I wanted to represent what getting through day to day life is like with anxiety constantly having to get around obstacles. This game should evoke a feeling of uneasiness and frustration by having to re-try the levels after dying from one of the spikes. The game is also a take on the Sushi Go mechanics we played in class by being able to choose which spikes you want to keep and which to randomize in order to customize the level and choose the games difficulty. You can press 'R' to regenerate the heights of the spikes and 'G' generate a new layout for them. Then you can click the spikes to lock them in place and click them a second time to unlock them. I chose the colors red, grey and black to convey negative emotions and chose to make almost everything spiky to represent the feeling of anxiety in the body.
 
 ---
 
@@ -23,6 +23,7 @@ Learning Goals:
 - Convert a circular sprite to an AABB for collision
 - Implement overlap test and push-out resolution
 - Manage grounded state only when landing on top faces
+- change the example given to reflectthe games played in class and convey an emotion to the players
 
 ---
 
@@ -34,6 +35,6 @@ N/A
 
 ## GenAI
 
-The code was written by Dr. Karen Cochrane but she used GenAI to write the comments.
+The code was written by Gen AI with creative direction and ideas by Erin O'Neill. More information on this can be found in the Proccess and Decision Documentation.
 
 ---
